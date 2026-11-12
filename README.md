@@ -1,10 +1,10 @@
 # Hey, I'm Bibek 👋
 
-### Software Developer • Web Developer • Problem Solver
+### Software Developer • Problem Solver
 
 I like turning ideas into simple, functional, and useful software.
 
-Currently exploring **full-stack development** while building my skills in **Java, Python, and modern web technologies**. I enjoy learning new technologies, building practical projects, and improving my problem-solving skills through development.
+Currently exploring Software Developerment and AI/ML. I enjoy learning new technologies, building practical projects, and improving my problem-solving skills through development and continuous learning.
 
 Always learning, always building, and always open to interesting collaborations.
 
@@ -26,7 +26,6 @@ Always learning, always building, and always open to interesting collaborations.
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
 </p>
 
