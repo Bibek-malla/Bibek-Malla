@@ -1,6 +1,6 @@
 # Hey, I'm Bibek 👋
 
-### Software Developer • Data & Backend Enthusiast
+### Software Developer • AI, Data & Backend Enthusiast 
 
 I like turning ideas into simple, functional, and useful software.
 
